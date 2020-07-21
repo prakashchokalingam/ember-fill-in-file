@@ -1,8 +1,27 @@
 # ember-fill-in-file
 
-This README outlines the details of collaborating on this Ember addon.
+Ember test support helper for [fill-in-file](https://github.com/prakashchokalingam/fill-in-file)
 
 ## Installation
+
+```
+npm install ember-fill-in-file
+```
+
+## Usage
+
+```
+import { fillInFile } from 'ember-fill-in-file';
+
+...
+
+fillInFile('#upload-file');
+```
+
+Please check [fill-in-file](https://github.com/prakashchokalingam/fill-in-file) for more info.
+
+
+## Addon
 
 * `git clone <repository-url>` this repository
 * `cd ember-fill-in-file`
