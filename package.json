@@ -1,5 +1,5 @@
 {
-  "name": "@prakashchokalingam/ember-fill-in-file",
+  "name": "ember-fill-in-file",
   "version": "1.0.0",
   "description": "Ember test helper for fill-in-file",
   "keywords": [
@@ -48,8 +48,5 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
-  },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
   }
 }
