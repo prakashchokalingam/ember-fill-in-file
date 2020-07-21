@@ -1,4 +1,4 @@
-# ember-fill-in-file
+# ember-fill-in-file [![npm version](http://img.shields.io/npm/v/ember-fill-in-file.svg?style=flat-square&color=success)](https://www.npmjs.com/package/ember-fill-in-file "View this project on npm")
 
 Ember test support helper for [fill-in-file](https://github.com/prakashchokalingam/fill-in-file)
 
@@ -44,3 +44,6 @@ Please check [fill-in-file](https://github.com/prakashchokalingam/fill-in-file) 
 * `ember build`
 
 For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+
+[![npm version](http://img.shields.io/npm/v/ember-fill-in-file.svg?style=flat-square&color=success)](https://www.npmjs.com/package/ember-fill-in-file "View this project on npm")
+[![npm](https://img.shields.io/npm/dm/ember-fill-in-file.svg?style=flat-square)](https://www.npmjs.com/package/ember-fill-in-file)
