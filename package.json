@@ -16,7 +16,7 @@
     "build": "ember build",
     "start": "ember server",
     "test": "ember try:each",
-    "copy": "node copy.js"
+    "parcel": "parcel build node_modules/fill-in-file/src/index.ts --out-dir addon-test-support"
   },
   "dependencies": {
     "ember-cli-babel": "^5.1.7"
@@ -40,8 +40,9 @@
     "ember-resolver": "^2.0.3",
     "ember-source": "~2.12.0",
     "ember-welcome-page": "^2.0.2",
+    "fill-in-file": "0.0.3",
     "loader.js": "^4.2.3",
-    "fill-in-file": "0.0.3"
+    "parcel-bundler": "^1.12.4"
   },
   "engines": {
     "node": ">= 4"
